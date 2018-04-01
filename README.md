@@ -1,5 +1,6 @@
 # RedisClusterBuilder
 
+how to build it
 
 搭建的机器为以下6台机器
 192.168.102.132 7001
